@@ -115,3 +115,7 @@ if __name__ == "__main__":
 Additionally, the email sending part (`send_zip_email`) is a placeholder and needs to be implemented with a library like `smtplib` in Python or any email service like SendGrid.
 
 Also, remember to check the terms and conditions of your payment processor. Handling transactions securely and in compliance with regulations is crucial. Always consider consulting with a security expert when dealing with sensitive operations such as payments.
+
+Share Link at Chat.OpenAI.Com
+
+https://chat.openai.com/share/e83ec1f2-6a02-4d41-a851-f76dfc011d39
